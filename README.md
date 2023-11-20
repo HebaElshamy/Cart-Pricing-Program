@@ -25,10 +25,12 @@ While the frontend utilizes jQuery and AJAX to enhance user interactions, the pr
 1. Clone the repository.
   ```bash
    git clone https://github.com/HebaElshamy/Cart-Pricing-Program.git
-
+ذ
+```
 2.  Install project dependencies using Composer:
    ```bash
    composer install
+```
 
 3. Copy the .env.example file and rename it to .env:
     ```bash
@@ -40,19 +42,22 @@ While the frontend utilizes jQuery and AJAX to enhance user interactions, the pr
 6. Run the database migrations to create tables:
     ```bash
     php artisan migrate
+
 7. Populate the database with the required data.
     ```bash
-    php artisan db:seed   
+    php artisan db:seed
+  
 8. Start the local server:
     ```bash
-    php artisan serve  
+    php artisan serve
+    
 9. Open the project in the browser at http://localhost:8000. 
 10. To login as an user, use the following credentials:
-    Email: user1@example.com
-    Password: 123456789
-    - or
-    Email: user2@example.com
-    Password: 123456789
+    
+    - Email: user1@example.com
+    - Password: 123456789
+    - Email: user2@example.com
+    - Password: 123456789
 11. Enjoy your experience!
 ## Review Guidelines
 This project adheres to industry best practices, including:
@@ -60,6 +65,12 @@ This project adheres to industry best practices, including:
 - SOLID principles.
 - Well-structured and commented code.
 - Error handling.
+
+![Capture1](https://github.com/HebaElshamy/Cart-Pricing-Program/assets/46092804/f36abd70-ea09-49cc-a62f-0cebbe34741c)
+
+![Capture2](https://github.com/HebaElshamy/Cart-Pricing-Program/assets/46092804/178e25e0-5d21-4e40-8a5f-3cceb16024a5)
+
+![Capture3](https://github.com/HebaElshamy/Cart-Pricing-Program/assets/46092804/cd0d98f9-7792-433c-8b6a-01cffd4ad72a)
 
 
 
