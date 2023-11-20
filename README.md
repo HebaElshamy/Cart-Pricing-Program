@@ -65,15 +65,17 @@ This project adheres to industry best practices, including:
 - SOLID principles.
 - Well-structured and commented code.
 - Error handling.
-
-![Capture1](https://github.com/HebaElshamy/Cart-Pricing-Program/assets/46092804/f36abd70-ea09-49cc-a62f-0cebbe34741c)
-
-![Capture2](https://github.com/HebaElshamy/Cart-Pricing-Program/assets/46092804/178e25e0-5d21-4e40-8a5f-3cceb16024a5)
-
-![Capture3](https://github.com/HebaElshamy/Cart-Pricing-Program/assets/46092804/cd0d98f9-7792-433c-8b6a-01cffd4ad72a)
-
 ## Interview Task Link
 https://github.com/momtazmeeenig/interview-task
+
+
+![Capture1](https://github.com/HebaElshamy/Cart-Pricing-Program/assets/46092804/2c33a025-5d38-4060-89b1-75762fbbf777)
+
+![Capture2](https://github.com/HebaElshamy/Cart-Pricing-Program/assets/46092804/56d17dfc-7025-4672-87b5-13412a9b5c57)
+
+![Capture3](https://github.com/HebaElshamy/Cart-Pricing-Program/assets/46092804/d13e6c59-6ea0-41db-9beb-ddfe7e5930de)
+
+
 
 
 
