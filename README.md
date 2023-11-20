@@ -25,7 +25,7 @@ While the frontend utilizes jQuery and AJAX to enhance user interactions, the pr
 1. Clone the repository.
   ```bash
    git clone https://github.com/HebaElshamy/Cart-Pricing-Program.git
-ذ
+
 ```
 2.  Install project dependencies using Composer:
    ```bash
