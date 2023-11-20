@@ -21,13 +21,15 @@ While the frontend utilizes jQuery and AJAX to enhance user interactions, the pr
 - **Frontend Interaction**: Utilized jQuery and AJAX to handle asynchronous requests, providing a seamless user experience without the need for page refresh.
 - **Design Patterns**: Employed a layered service design pattern, adhering to Object-Oriented (OO) fundamentals, SOLID principles.
 ## How to Run the Program
+
 1. Clone the repository.
   ```bash
    git clone https://github.com/HebaElshamy/Cart-Pricing-Program.git
-2.  Install project dependencies using Composer:
 
+2.  Install project dependencies using Composer:
    ```bash
    composer install
+
 3. Copy the .env.example file and rename it to .env:
     ```bash
     cp .env.example .env
