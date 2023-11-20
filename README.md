@@ -33,10 +33,11 @@ While the frontend utilizes jQuery and AJAX to enhance user interactions, the pr
 ```
 
 3. Copy the .env.example file and rename it to .env:
-    ```bash
+ ```bash
     cp .env.example .env
+```
 4. Generate the application key:
-    ```bash
+   ```bash
     php artisan key:generate
 5. Configure the .env file with your database connection details   
 6. Run the database migrations to create tables:
